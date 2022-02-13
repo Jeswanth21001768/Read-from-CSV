@@ -19,8 +19,8 @@ Display the number of rows and columns of the file using len() and axes() method
 ~~~
 '''
 Program to read contents from a csv file
-Developed by: SRIJITH R
-RegisterNumber: 21004191
+Developed by: jeswanth
+RegisterNumber: 21001768
 '''
 
 import pandas as pd
